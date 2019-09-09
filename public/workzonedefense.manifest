@@ -1,0 +1,41 @@
+{
+    "background_color": "#B12A34",
+    "description": "Protect your team and get the job done.",
+    "display": "fullscreen",
+    "icons": [
+        {
+            "sizes": "32x32",
+            "src": "icons/icon-32.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "64x64",
+            "src": "icons/icon-64.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "128x128",
+            "src": "icons/icon-128.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "192x192",
+            "src": "icons/icon-192.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "256x256",
+            "src": "icons/icon-256.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "512x512",
+            "src": "icons/icon-512.png",
+            "type": "image/png"
+        }
+    ],
+    "name": "Work Zone Defense",
+    "short_name": "workzonedefense",
+    "start_url": "/",
+    "theme_color": "#B12A34"
+}
