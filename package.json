@@ -1,5 +1,15 @@
 {
   "dependencies": {
     "phaser": "^3.19.0"
-  }
+  },
+  "scripts": {
+    "start": "simple-http-server -i public"
+  },
+  "name": "workzonedefense",
+  "version": "0.1.0",
+  "description": " Protect your work force from empire traffic.",
+  "main": "index.js",
+  "repository": "https://github.com/nathanjent/workzonedefense",
+  "author": "Nathan Jent <nathanjent@gmail.com>",
+  "license": "MIT"
 }
