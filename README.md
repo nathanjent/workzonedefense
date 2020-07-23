@@ -1,2 +1,3 @@
-# workzonedefense
-Protect your work force from empire traffic.
+# Work Zone Defense
+
+Protect your work force from empire city traffic.

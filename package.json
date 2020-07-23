@@ -1,15 +1,24 @@
 {
-  "dependencies": {
-    "phaser": "^3.19.0"
-  },
-  "scripts": {
-    "start": "simple-http-server -i public"
-  },
-  "name": "workzonedefense",
-  "version": "0.1.0",
-  "description": " Protect your work force from empire traffic.",
-  "main": "index.js",
-  "repository": "https://github.com/nathanjent/workzonedefense",
-  "author": "Nathan Jent <nathanjent@gmail.com>",
-  "license": "MIT"
+    "name": "workzonedefense",
+    "version": "0.1.0",
+    "description": " Protect your work force from empire traffic.",
+    "main": "index.js",
+    "repository": "https://github.com/nathanjent/workzonedefense",
+    "author": "Nathan Jent <nathanjent@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "@phaserjs/phaser": "^0.1.8",
+        "haunted": "^4.7.0"
+    },
+    "scripts": {
+        "start": "snowpack dev",
+        "build": "snowpack build",
+        "test": "echo \"This template does not include a test runner by default.\" && exit 1",
+        "format": "prettier --write \"src/**/*.js\"",
+        "lint": "prettier --check \"src/**/*.js\""
+    },
+    "devDependencies": {
+        "prettier": "^2.0.5",
+        "snowpack": "^2.6.4"
+    }
 }

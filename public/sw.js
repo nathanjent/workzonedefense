@@ -8,7 +8,7 @@ var filesToCache = [
     '/assets/particles/red.png',
     '/assets/sprites/logo.png', 
     '/icons/icon-32.png', 
-    '/icons/icon-54.png', 
+    '/icons/icon-64.png', 
     '/icons/icon-128.png', 
     '/icons/icon-192.png', 
     '/icons/icon-256.png', 
